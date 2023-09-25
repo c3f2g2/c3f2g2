@@ -1,0 +1,18 @@
+git ignore - tento soubor otevřít v textovém editoru -např nano a tam úplně dolů doplnit *.zip. To zajistí, aby se na git nenahrávaly soubory s příponou .zip. Toto je potřeba udělat v základním rootu mého github repository a bude to tedy platit pro všechny složky v tomto repository.
+
+klávesové zkratky - ctrl-d kopíruje soušasný řádek kódu, ctrl+shift+šipka naviguje skrz řádky kódu v editoru
+
+Pracovat v Java11 - nejpoužívanější verze
+
+Home path - jak nastavit, pravděpodobně napsáno v sylabu
+
+GradeScope - email: larrylurex1973@gmail.com password: Y*%z*$sh<ge5Z93
+	- složku dne komprimovat do .zip a soubour .zip uploadnout do GradeScope přetáhnutím. Můžeme nahrávat opakovaně, ukáže nám to chyby a zůstane tam 	ten poslední nahraný
+
+Exercises
+IntroduceYourself - něco tam je špatně, vytvořil jsem druhé řešení a dal ho jako komentář prozatím
+TwoNumbers - vymazat text předcházející číslenému outputu v println?
+Swap - je správný postup? Vytvořil jsem úplně nové variables místo "přepsání" těch původních
+Cuboid - doplnit jako výstup text před výsledná čísla?
+OddEven - nějaký problém se závorkami {}, jinak se kód zdá ok
+Loops exercises - moc jsem k nim nedostala zvládl jsem jen základní, pokročilejší moc ne
